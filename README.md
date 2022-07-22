@@ -1,4 +1,4 @@
-## This is theme pleasure for the eyes and for Php, Js, Html, Css, Txt
+## This is theme pleasure for the eyes and for Php, Js, Html, Css, Text
 
 Hello friends, i have created simple Theme for VSCode
 
