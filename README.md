@@ -1,9 +1,5 @@
 ## This is theme pleasure for the eyes and for Php, Js, Html, Css, Txt
 
-# Preview
-
-![Preview](https://raw.githubusercontent.com/blazewebart/blazewebart-vscode-theme/master/images/preview.png)
-
 # About
 
 Hello friends, i have created simple Theme for VSCode
@@ -13,6 +9,12 @@ It is my simple environment for coding with pleasure
 I have tried add simple colors for Technologies as Php, Js, Html, Css and Text
 
 Maybe in future i will add some new colors or if you want you could do it for Yourself
+
+
+# Preview
+
+![Preview](https://raw.githubusercontent.com/blazewebart/blazewebart-vscode-theme/master/images/preview.png)
+
 
 # Simple integration 
 
