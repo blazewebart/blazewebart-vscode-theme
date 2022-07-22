@@ -27,6 +27,15 @@ vsce package
 git clone https://github.com/blazewebart/blazewebart-vscode-theme.git
 ``` 
 
+## My Settings for VSCode
+```sh
+- Scroll Sensitive 0.25
+
+- Font Size 12.5
+
+- Line Height 1.2
+``` 
+
 ## p.s
 
 This is simple and i suppose useful theme for people who loves code, if you have questions please ask), 
