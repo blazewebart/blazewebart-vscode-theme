@@ -1,7 +1,7 @@
 {
-    "name": "blazewebart-vscode-theme",
-    "displayName": "blazewebart-vscode-theme",
-    "description": "BlazeWebArt.pro - Theme pleasure for the eyes and for Php, Js, Html, Css, Txt",
+    "name": "blazewebart",
+    "displayName": "BlazeWebArt",
+    "description": "BlazeWebArt.pro - Theme, pleasure for the eyes, for Php, Js, Html, Css, Txt",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.69.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "blazewebart-vscode-theme",
+                "label": "BlazeWebArt",
                 "uiTheme": "vs",
-                "path": "./themes/blazewebart-vscode-theme-color-theme.json"
+                "path": "./themes/BlazeWebArt-color-theme.json"
             }
         ]
     }
