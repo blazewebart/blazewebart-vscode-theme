@@ -4,7 +4,7 @@ Hello friends, i have created simple Theme for VSCode
 
 It is my simple environment for coding with pleasure
 
-I have tried add simple colors for Tehnologies as Php, Js, Html, Css and Txt
+I have tried add simple colors for Technologies as Php, Js, Html, Css and Txt
 
 Maybe in future i will add some new colors or if you want you could do it for your self
 
