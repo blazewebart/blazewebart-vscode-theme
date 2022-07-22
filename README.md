@@ -1,7 +1,10 @@
 ## This is theme pleasure for the eyes and for Php, Js, Html, Css, Txt
 
+# Preview
+
 ![Preview](https://raw.githubusercontent.com/blazewebart/blazewebart-vscode-theme/master/images/preview.png)
 
+# About
 
 Hello friends, i have created simple Theme for VSCode
 
