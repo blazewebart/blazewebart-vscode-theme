@@ -2,10 +2,37 @@
     "name": "blazewebart",
     "displayName": "BlazeWebArt",
     "description": "BlazeWebArt.pro - Theme, pleasure for the eyes, for Php, Js, Html, Css, Txt",
+    "publisher": "BlazeWebArt.pro",
+    "author": {
+        "name": "Konstantin Kotlyarov"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.69.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/blazewebart/blazewebart-vscode-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/blazewebart/blazewebart-vscode-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#BFD0EF",
+        "theme": "light"
+    },
+    "icon": "images/logo.png",
+    "keywords": [
+        "VSCode",
+        "Themes",
+        "Light Theme",
+        "BlazeWebArt",
+        "calm",
+        "grey",
+        "light",
+        "simple",
+        "eyes"
+    ],
     "categories": [
         "Themes"
     ],
